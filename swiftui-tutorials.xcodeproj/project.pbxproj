@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2406C2CB234F452B001B8349 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2406C2CA234F452B001B8349 /* CircleImage.swift */; };
+		2406C2CD234F4604001B8349 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2406C2CC234F4604001B8349 /* MapView.swift */; };
 		248BD308234DFAAC00F874BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248BD307234DFAAC00F874BB /* AppDelegate.swift */; };
 		248BD30A234DFAAC00F874BB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248BD309234DFAAC00F874BB /* SceneDelegate.swift */; };
 		248BD30C234DFAAC00F874BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248BD30B234DFAAC00F874BB /* ContentView.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2406C2CA234F452B001B8349 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		2406C2CC234F4604001B8349 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		248BD304234DFAAC00F874BB /* swiftui-tutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-tutorials.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		248BD307234DFAAC00F874BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		248BD309234DFAAC00F874BB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 		248BD2FB234DFAAC00F874BB = {
 			isa = PBXGroup;
 			children = (
+				2406C2CA234F452B001B8349 /* CircleImage.swift */,
+				2406C2CC234F4604001B8349 /* MapView.swift */,
 				248BD306234DFAAC00F874BB /* swiftui-tutorials */,
 				248BD31D234DFAAE00F874BB /* swiftui-tutorialsTests */,
 				248BD328234DFAAE00F874BB /* swiftui-tutorialsUITests */,
@@ -268,6 +274,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				248BD308234DFAAC00F874BB /* AppDelegate.swift in Sources */,
+				2406C2CB234F452B001B8349 /* CircleImage.swift in Sources */,
+				2406C2CD234F4604001B8349 /* MapView.swift in Sources */,
 				248BD30A234DFAAC00F874BB /* SceneDelegate.swift in Sources */,
 				248BD30C234DFAAC00F874BB /* ContentView.swift in Sources */,
 			);
